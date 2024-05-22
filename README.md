@@ -70,4 +70,4 @@ Testing and Refining:
 Test the website on different devices and screen sizes to ensure responsiveness and functionality.
 Refine the design and functionality based on feedback.
 By completing this project, learners will demonstrate their proficiency in HTML, CSS, and JavaScript, as well as their ability to create a visually appealing and interactive web application for browsing movies.
-
+https://roamingtrooper.github.io/MovieCatalog/
